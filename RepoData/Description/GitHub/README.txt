@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🆚️↕️📖️ The official documenetation source repository for uOffice DVCS (Document Version Control System a Git-like, Diff-enabled document version control system that aims to make document revisions as light as possible.
